@@ -95,7 +95,7 @@
                 Data Mahasiswa
             </h6>
             <small class="text-secondary">
-                Daftar mahasiswa yang terdaftar
+                Daftar mahasiswa yang terdaftar dalam sistem.
             </small>
         </div>
 
